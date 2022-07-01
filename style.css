@@ -1,0 +1,26 @@
+body {
+    background-color: lightblue;
+  }
+  .mycontainer {
+    width: 400px;
+    height:130px;
+    margin: 50px auto;
+    padding: 20px;
+    /* border: 2px solid red; */
+    font-family: arial;
+    font-size: 16px;
+    background-color: white;
+    border-radius: 20px;
+    text-align: right;
+  }
+  .mycontainer2 {
+    width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    /* border: 2px solid red; */
+    font-family: arial;
+    font-size: 16px;
+    background-color: white;
+    border-radius: 20px;
+    text-align: right;
+  }
