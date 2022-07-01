@@ -22,11 +22,13 @@ $(document).ready(function() {
     var deleteTodo = "";
     $(document).on("click", ".todocontainer", function(e) {
         e.preventDefault();
-        deleteTodo = $(this).children().attr("id");
+        //deleteTodo = $(this).children().attr("id");
         //$("#edit_todo").remove();
 		//$("#edit_todo").parent().remove();
-		$(this).remove();
-        console.log("deleteTodo ID : " + deleteTodo);
+		//$(this).remove();
+        //console.log("deleteTodo ID : " + deleteTodo);
+		
+		
     });
 
 
